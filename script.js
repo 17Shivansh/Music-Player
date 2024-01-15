@@ -27,20 +27,20 @@ let track_list = [
 {
 	name: "Main-Nikla-O-Gaddi-Leke",
 	artist: "Mithoon, Udit Narayan, Aditya Narayan, Anand Bakshi",
-	image: "/Music_Player/img/track-3.jpg",
-	path: "/Music_Player/music-list/Main-Nikla-O-Gaddi-Leke(PagalWorlld.Com).mp3"
+	image: "./img/track-3.jpg",
+	path: "./music-list/Main-Nikla-O-Gaddi-Leke(PagalWorlld.Com).mp3"
 },
 {
 	name: "Raam Aayenge || Swati Mishra Bhajan",
 	artist: "Swati Mishra",
-	image: "/Music_Player/img/track-1.jpg",
-	path: "/Music_Player/music-list/track-1.mp3"
+	image: "./img/track-1.jpg",
+	path: "./music-list/track-1.mp3"
 },
 {
 	name: "Gulabi Aankhen ",
 	artist: "Sanam",
-	image: "/Music_Player/img/track-2.jpg",
-	path: "/Music_Player/music-list/track-2.mp3",
+	image: "./img/track-2.jpg",
+	path: "./music-list/track-2.mp3",
 },
 ];
 
